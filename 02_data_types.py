@@ -100,8 +100,8 @@ for val in [a, b, c, d, e]:
         print(val, "-> Cannot convert to complex")
 
 #2.     Sequence Category Data Types
-#2.1.   str
-#2.2.   bytes
+#2.1.   str 
+#2.2.   bytes      #   Purpose is to store the sequence of byte values (0-255) in main memory, bytes are immutable
 #2.3.   bytearray
 #2.4.   range
 #
