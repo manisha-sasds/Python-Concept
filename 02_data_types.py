@@ -4,11 +4,11 @@ import sys
 # Python has 14 data Types, and they are classified into 6 Types. 
 
 #1.	Fundamental Category Data Types
-#1.1.	int # Purpose is to store the whole number in main memory , int dataty pe can  stored 4 typs if differet=t numer ssystem 4 Types of Number Systems. They are
+#1.1.	int # Purpose is to store the whole number in main memory , int data type can  stored 4 typs if differet nunumber system 4 Types of Number Systems. They are
  
 #   1.1.1 Decimal Number System [Numbers 0-9 ,Base 10]
 #	1.1.2 Binary Number System [Numbers 0 and 1  ,Base 2]
-#	1.1.3 Octal Number System [Numbers 0-9 ,Base 10]
+#	1.1.3 Octal Number System [Numbers 0-7 ,Base 8]
 #	1.1.4 Hexa Decimal Number System [Numbers 0-9 and A-F,Base 16]]
 
 # Storing numbers in different number systems using int

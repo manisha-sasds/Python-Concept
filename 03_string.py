@@ -1,7 +1,9 @@
 
 # 1. Strings- store a sequence of characters
-name ="Jhon"
-print(name)
+print("Hello Students welcome to Sring learning ") # Hello Students
+print('Hello  World') # Hello  World
+
+
 # 2. Strings can be stored in the variable in single or double quotes
 str1='Hello'
 str2="Jhon"
@@ -47,14 +49,18 @@ print(e[6:])  # Monalisa
 print(e[-7:]) # Monalisa
 print(e[-7:-1]) # Monali
 print(e[:])   # Hello Monalisa 
+# 9. strings Format     - can be formatted using f-strings or format() method
 
-# 9. strings have many built-in methods - can be used to perform various operations on strings
-f= "   Hello Monalisa   "
+
+# 10. strings have many built-in methods - can be used to perform various operations on strings
+f=  "  Hello  Monalisa   "
+msg = "Welcome ! to Python programming"
 print(f.lower()) # hello monalisa
 print(f.upper()) # HELLO MONALISA
 print(f.strip()) # Hello Monalisa
 print(f.replace("Monalisa","Jhon")) #    Hello Jhon   
-print(f.split(" ")) # ['', '', '', 'Hello', 'Monalisa', '', '', '']
+print(f.split(" ")) # ['', '', 'Hello', '', 'Monalisa', '', '', '']
+print(msg.split('!')) # ['Welcome ', ' to Python programming']
 print(f.find("Monalisa")) # 8
 print(f.startswith("   Hello")) # True
 print(f.endswith("Monalisa   ")) # True
