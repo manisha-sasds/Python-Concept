@@ -228,7 +228,7 @@ count_33=tuple_num.count(33)
 print("\n\t Count of 33 in tuple_num:", count_33)
 
 index_77=tuple_num.index(77)
-print("\n\t Index of 77 in tuple_num:", index_77)
+print("\n\t Index of 77 in tuple_num is:", index_77)
 
 
 
