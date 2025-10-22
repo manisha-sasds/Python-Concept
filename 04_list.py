@@ -196,5 +196,5 @@ uppercase_str_list = [s.upper() for s in str_list]
 print("\n\t Uppercase str_list using list comprehension:", uppercase_str_list)
 
 bool_list = [not b for b in mixed_list if isinstance(b, bool)]
-print("\n\t Negated boolean values in mixed_list using list comprehension:", bool_list)
+print("\n\t Negated boolean values in mixed_list using list comprehension is :", bool_list)
 
