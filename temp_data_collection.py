@@ -1,6 +1,6 @@
 # Lists in Python- From Basics to Advanced Operations
 #A list in Python is an ordered, mutable collection used to store multiple items in a single variable.# You can create a list by placing comma-separated values inside square brackets [].
-print ("\n----------------- 1. Firts way to Creating a  list -----------------")
+print ("\n----------------- 1. Creating a  list -----------------")
 
 # Integers
 int_list = [1, 2, 3, 4, 5]
@@ -20,15 +20,7 @@ print("\n Nested mixed list with integers, strings, float is :=", nested_mix_lis
 list_from_tuple = list((1, 2, 3))  # from tuple
 print("\n Created List from tuple:=", list_from_tuple)
 list_from_string = list("hello")  # from string
-print("\n Created List from string:=", list_from_string)    
-
-print ("\n-----------------  Second way to Creating a  list in python list() constructor function -----------------")
-
-
-list_from_tuple = list[(1, 2, 3)] # from tuple
-print("\n Created list from tuple:=", list
-list_from_string = list("hello")  # from string
-print("\n Created Tuple from string:=", list_from_string)  
+print("\n Created List from string:=", list_from_string)            
 
 print ("\n----------------- 2. How to access List Elements by Indexing and Slicing -----------------")
 
