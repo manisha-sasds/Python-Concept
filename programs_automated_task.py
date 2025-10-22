@@ -2,8 +2,9 @@
 import re
 
 # 1️⃣ Read text from the original file
-input_path = "/Users/manishasasatte/Manisha-Portfolio/Python-Concept/temp_data_collection.py"
-output_path = "/Users/manishasasatte/Manisha-Portfolio/Python-Concept/05_tuple.py"
+
+input_path = "./Python-Concept/temp_data_collection.py"
+output_path = "./Python-Concept/06_set.py"
 
 # 1️⃣ Read the file
 with open(input_path, "r") as file:
