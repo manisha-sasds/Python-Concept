@@ -109,7 +109,7 @@ print(f"3-Team Lead Information:\n Company: {tl.company_name},\n Name: {tl.name}
 tl.work()
 tl.manage()
 tl.lead()
-print(----------------- 4  Multiple Inheritance: Two+ Parents → One Child  -------------------)
+print("----------------- 4  Multiple Inheritance: Two+ Parents -> One Child  -------------------")
 # When one Child class Manager inheris from  Two Parent classes Employee1 and Employee2 
 class Employee1: # Parent class 1
     def __init__(self, name, emp_id):
